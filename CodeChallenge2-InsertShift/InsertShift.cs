@@ -8,7 +8,7 @@ namespace CodeChallenge2_InsertShift
     {
         public static int[] ShiftIn(int[] array, int num)
         {
-            int n = array.Length+1;
+            int n = array.Length + 1;
             int[] Shifted = new int[n];
             //int counter = 0;
             int pos = 5;
